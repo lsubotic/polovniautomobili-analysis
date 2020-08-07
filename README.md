@@ -10,12 +10,15 @@ Data is saved to an .csv file, which is later read and manipulated through **Pan
 ## Some of the visualized examples from data, by amount of current vehicles selling...
 <div>
 <ul>
-  <li>Top 10 brands as lines with nubmers:</li><br>
-  <img src="plot_images/top10-brands-line.png", width="500", height="400"/>
-  <li>Same, but now as circle graph with procentages:</li><br>
-  <img src="plot_images/top10-brands-circle.png", width="500", height="400"/><br>
-  <li>Top 10 models in of Top 10 brands:</li><br>
-  <img src="plot_images/top10-brands-models.png", width="auto", height="500"/><br>
+  <li>Top 10 brands as lines with nubmers:<br><img src="plot_images/top10-brands-line.png", width="450", height="350"/></li>
+  
+  <li>Same, but now as circle graph with procentages:<br><img src="plot_images/top10-brands-circle.png", width="450", height="350"/><br></li>
+  
+  <li>Top 10 models in of Top 10 brands:<br><img src="plot_images/top10-brands-models.png", width="auto", height="400"/></li>
+  
+  <li>Top 10 models out of all brands: <br><img src="plot_images/top10-models-only.png", width="auto", height="400"/></li>
+  
+  <li>Top 10 brands share compared all other brands:<br><img src="plot_images/top10-brands-share.png", width="450", height="450"/></li>
   </ul>
 </div>
 
