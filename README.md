@@ -1,5 +1,5 @@
 # Serbia's used cars market analysis, visualized
-Being interested in which used cars and brands are sold the most in Serbia, I've decided to write an web scraper that'll extract the amount of ads for each brand, and in it, each model and while at it, I found that visualizing it would be good way to have something that can be updated and taken look at every few months. So in future, changes to the market could be tracked and visualized just by re-running the scripts.
+Being interested in which used cars and brands are sold the most in Serbia, I've decided to write an web scraper that'll extract total amount of ads for each model and it's respective brand. While at it, I found that visualizing it would be good way to have something that can be updated and taken look at every few months. So in future, changes to the market could be tracked and visualized just by re-running the scripts.
 
 ## The process:
 I decided to obtain the data from a popular site for used vehicles in Serbia - [polovniautomobili.com](https://www.polovniautomobili.com) ; So the first part of the project involved writing a scraper script.
