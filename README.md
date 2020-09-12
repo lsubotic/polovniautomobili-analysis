@@ -10,7 +10,7 @@ Data is saved to an .csv file, which is later read and manipulated through **Pan
 ## Some of the visualized examples from data, by amount of current vehicles selling...
 <div>
 <ul>
-  <li>Top 10 brands as lines with nubmers:<br><img src="plot_images/top10-brands-line.png", width="450", height="350"/></li>
+  <li>Top 10 brands as lines with numbers:<br><img src="plot_images/top10-brands-line.png", width="450", height="350"/></li>
   
   <li>Same, but now as circle graph with procentages:<br><img src="plot_images/top10-brands-circle.png", width="450", height="350"/><br></li>
   
