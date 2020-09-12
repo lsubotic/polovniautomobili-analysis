@@ -4,8 +4,8 @@ Being interested in which used cars and brands are sold the most in Serbia, I've
 ## The process:
 In order to do analysis and visualization, first there needed to be some data. <br>
 I decided to obtain it from a popular site for used vehicles [polovniautomobili.com](https://www.polovniautomobili.com).
-On the site there are 81 brands from which 1129 models, the scraper needed to visit each one and extract total amount of ads.
-Data is saved to an .csv file, which is later read and manipulated through **Pandas**. After that, it is be visualized with **Matplotlib**
+On the site there are 81 brands and 1129 models in total. The scraper needed to visit all models of each brand respectively.
+That data is then saved to an .csv file, which is later read and manipulated with help of **Pandas**. After that, based on different criteria, it is visualized using **Matplotlib**.
 
 ## Some of the visualized examples from data, by amount of current vehicles selling...
 <div>
